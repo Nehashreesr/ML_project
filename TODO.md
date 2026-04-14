@@ -1,1 +1,0 @@
-# Fix Seaborn Import Error using setup.py install&#10;&#10;- [x] Step 1: Run `pip install -e .` to install project dependencies including seaborn (seaborn v0.13.2 already available)&#10;- [ ] Step 2: Restart Jupyter kernel in VSCode&#10;- [ ] Step 3: Verify seaborn import works in notebook/1 . EDA STUDENT PERFORMANCE .ipynb
