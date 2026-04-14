@@ -12,8 +12,7 @@ from src.exception import CustomException
 from src.logger import logging
 import os
 
-from src.components.model_trainer import ModelTrainerConfig
-from src.components.model_trainer import ModelTrainer
+
 
 from src.utils import save_object
 
